@@ -1,0 +1,1 @@
+# swisstronik-simple-contract
